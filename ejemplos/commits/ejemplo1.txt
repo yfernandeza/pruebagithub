@@ -1,7 +1,7 @@
 ## Ejemplo 1: Buen Commit
 
 Este es un ejemplo de un commit bien formateado.
-
+# CAMBIO
 Estructura:
 - Línea 1: Tipo y descripción breve (50 caracteres máximo)
 - Línea 2: Blanca

@@ -24,7 +24,7 @@ git checkout -b feature/mi-mejora
 git add .
 git commit -m "feat: agregar nueva sección sobre git rebase"
 ```
-
+# CAMBIO
 **Formato de commits:**
 ```
 <tipo>: <descripción breve>

@@ -25,7 +25,7 @@ sudo apt-get install git
 ```
 
 ---
-
+# CAMBIO
 ## Paso 2: Verificar que Git Está Instalado
 
 Abre tu terminal (Cmd, PowerShell, Terminal, o bash) y escribe:

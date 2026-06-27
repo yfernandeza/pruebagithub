@@ -13,7 +13,7 @@ git config --global user.name "Tu Nombre"
 
 # Configurar email
 git config --global user.email "tu@email.com"
-
+# CAMBIO
 # Ver configuración
 git config --list
 ```

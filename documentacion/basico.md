@@ -13,7 +13,7 @@ brew install git
 # Linux
 sudo apt-get install git
 ```
-
+# CAMBIO
 ### Configurar Git
 ```bash
 # Configurar nombre
