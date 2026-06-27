@@ -16,7 +16,7 @@ $ cd pruebagithub
 
 # PASO 2: Crear archivo
 $ echo "# Mi Primer Archivo" > mi_nombre.txt
-
+# CAMBIO
 # PASO 3: Ver status
 $ git status
 On branch master
