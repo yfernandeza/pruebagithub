@@ -1,0 +1,118 @@
+[33mcommit 0a0097c103336edbbf5c8b8297ee7af41e7d0cc4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpractice/nahirpm[m[33m)[m
+Author: nahirpm <nahirpm@gmail.com>
+Date:   Sat Jun 27 12:04:36 2026 -0400
+
+    docs: agregar primer documento
+
+[33mcommit 13949224e2346f561f8b69f4f51c21cfd707384f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:22:37 2026 -0400
+
+    docs: agregar 5 ejercicios prácticos con soluciones completas
+    
+    Ejercicios incluidos:
+    1. Mi Primer Commit - Aprender basics
+    2. Mi Primer PR - Flujo colaborativo
+    3. Ramas y Merge - Manejo de ramas
+    4. Revertir Cambios - Deshacer cambios
+    5. Búsqueda en Historial - Análisis avanzado
+    
+    Cada ejercicio incluye:
+    - Objetivo claro
+    - Pasos a seguir
+    - Salida esperada
+    - Referencias a documentación
+    - Soluciones paso a paso
+    
+    Total de ejercicios: 5 progresivos
+    Tiempo total: ~50 minutos
+
+[33mcommit 0abaa8ca1fcd2dc910750300e222dac57cf03f6c[m
+Merge: 313e892 cacad83
+Author: yfernandeza <yfernandeza@incos-santacruz.edu.bo>
+Date:   Sat Jun 27 08:15:51 2026 -0400
+
+    Merge pull request #1 from yfernandeza/feature/agregar-guia-colaboracion
+    
+    feat: agregar guía de colaboración y templates para PRs
+
+[33mcommit cacad83ab95c7ebaffd26182291d0d7f928e8955[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:13:31 2026 -0400
+
+    docs: agregar tutorial para principiantes y cheat sheet
+    
+    - Tutorial paso a paso: Mi Primer Contribución (30 minutos)
+      * Instalación de Git
+      * Configuración
+      * Fork y clone
+      * Crear rama
+      * Hacer cambios y commits
+      * Push a GitHub
+      * Crear Pull Request
+    
+    - Cheat Sheet: Referencia rápida de todos los comandos
+      * Organizado por sección
+      * Tabla de troubleshooting
+      * Aliases útiles
+      * Símbolos y términos
+    
+    - README actualizado con guía de navegación clara
+
+[33mcommit fb085f2c5c43167f43b8002c6c1e0f41c00c081a[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:10:51 2026 -0400
+
+    docs: agregar templates de PR e issues
+    
+    - Template de descripción de PR
+    - Template de reportar issues
+    - Comandos rápidos útiles
+    - Guía de cómo responder feedback
+    - Consejos para colaboradores
+
+[33mcommit af05f12209bfbb87578f1ad4030c12f64766068d[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:09:04 2026 -0400
+
+    feat: agregar guía completa de colaboración
+    
+    - Instrucciones paso a paso para fork/clone
+    - Flujo completo de contribución
+    - Ejemplos prácticos de PR
+    - Consejos para contribuidores
+
+[33mcommit 313e8922675728e447b584ff1ca754d9afbdbf49[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:07:03 2026 -0400
+
+    docs: agregar documentación intermedia y avanzada
+    
+    - Fase 3-5: Ramas, merge, rebase, PRs e issues
+    - Fase 6-10: Tags, revert, stash, historial y técnicas avanzadas
+    - Ejemplos completos de flujos de trabajo reales
+    - Tabla de decisión para elegir comando correcto
+    
+    Se incluyen:
+    - Buenas prácticas de commits
+    - Resolución de conflictos
+    - Alias útiles
+    - Troubleshooting común
+
+[33mcommit 9b7382e7b93802648849c6bcaae87206f73afca7[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:01:47 2026 -0400
+
+    docs: agregar ejemplos de commits, ramas y scripts
+
+[33mcommit ba7ddc2e47a31a9068621aa8af367f87545d7110[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 08:01:13 2026 -0400
+
+    docs: agregar documentación base y estructura del taller
+
+[33mcommit 89815d6e80f494ad77ca68de1d6985dcde69b9a6[m
+Author: GitHub User <user@github.com>
+Date:   Sat Jun 27 07:55:00 2026 -0400
+
+    Initial commit
